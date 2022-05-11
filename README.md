@@ -15,7 +15,7 @@ Whatsapp Bot 💫 || Lord Bot MD 🌪️ || Made By Letta-Sama🌹AmmarBN
  <a href="#"><img title="LordBOT" src="https://img.shields.io/badge/Lord-BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/PadhulExecute"><img title="Author" src="https://img.shields.io/badge/AUTHOR-Kanna-blue.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/AmmarrBN"><img title="Author" src="https://img.shields.io/badge/AUTHOR-Kanna-blue.svg?style=for-the-badge&logo=github"></a>
 </p>
 <a href="https://github.com/AmmarrBN/Lord_MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/kannachann/KannaBOT-MD?label=Forks&color=blue&style=flat-square"></a>
 <a href="https://github.com/AmmarrBN/Lord_MD /watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/kannachann/KannaBOT-MD?label=Watchers&color=green&style=flat-square"></a>
@@ -83,7 +83,7 @@ Whatsapp Bot 💫 || Lord Bot MD 🌪️ || Made By Letta-Sama🌹AmmarBN
 ---------
 
 ## ```Heroku Buildpack```
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AmmarrBN/Lord_MD)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PadhulExecute/Lord_MD)
 
 | BuildPack | LINK |
 |--------|--------|
