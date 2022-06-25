@@ -120,7 +120,7 @@ global.wm3 = '⫹⫺ Dhul 𝗕𝗢𝗧'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `⫹⫺ RPG BOT Whatsapp | By ${global.nameown}`
-global.author = '                「 Lord BOT あ⁩ 」'
+global.author = '                「 dhul BOT あ⁩ 」'
 
 
 /*============== LOGO ==============*/
