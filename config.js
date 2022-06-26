@@ -53,6 +53,7 @@ global.snh = 'https://youtube.com/channel/UCFeZ5BGt8lbOZwIj2MNOlIQ'
 /*============== PAYMENT ==============*/
 global.pdana = '085600204672'
 global.pgopay = '085600204672'
+global.povo   = '085600204672'
 global.ppulsa = '085600204672'
 global.ppulsa2 = '085600204672'
 global.psaweria = 'gk ada'
