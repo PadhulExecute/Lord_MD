@@ -65,6 +65,7 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname, args }) => {
   'kerang': 'Kerang Ajaib',
   'quotes': 'Quotes',
   'fun': 'Fun',
+  'termux': 'Termux',
   'anime': 'Anime',
   'admin': 'Admin',
   'group': 'Group',
@@ -88,6 +89,9 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname, args }) => {
 }
   if (teks == 'game') tags = {
     'game': 'Game'
+  }
+  if (tekz == 'termux') tags = {
+    'termux': 'Termux'
   }
   if (teks == 'anime') tags = {
     'anime': 'Anime'
@@ -227,6 +231,7 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname, args }) => {
 	{title: `✨ ${pmenus} Exp`, rowId: ".? xp", description: "Ayo tingkatkan pangkat mu!"},
 	{title: `🎮 ${pmenus} Game`, rowId: ".? game", description: "Gamenya seru seru lho >-<"},
 	{title: `🧩 ${pmenus} Fun`, rowId: ".? fun", description: "Fitur yang aman untuk keluarga"},
+	{title: `⚙️  ${pmenus} Termux`, rowId ".? termux", description: "Fitur Buat Main Spam Di Termos"},
 	{title: `🐚 ${pmenus} Kerang`, rowId: ".? kerangajaib", description: "Tanyakan pada ketua club"},
 	{title: `📑 ${pmenus} Quotes`, rowId: ".? quotes", description: "Random Inspirasi"},
 	{title: `⛩️ ${pmenus} Anime`, rowId: ".? anime", description: "Kamu wibu ya bang?"},
