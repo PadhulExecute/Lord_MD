@@ -69,7 +69,7 @@ global.nameown = 'fadhill'
 global.owner = [
   ['6285600204672'],
   ['6287761098709'],
-  ['6288229683561', '⌬ Fadhil Ganz', true]
+  ['6285600204672', '⌬ Fadhil Ganz', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = ['6285600204672'] // Want some help?
