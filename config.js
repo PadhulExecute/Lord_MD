@@ -51,30 +51,29 @@ global.sdc = '-'
 global.snh = 'https://youtube.com/channel/UCFeZ5BGt8lbOZwIj2MNOlIQ'
 
 /*============== PAYMENT ==============*/
-global.pdana = '085712420674'
-global.povo = '085712420674'
+global.pdana = '085600204672'
+global.povo = '085600204672'
 global.pgopay = '085712420674'
-global.ppulsa = '087708773367'
-global.ppulsa2 = '088229683561'
-global.psaweria = 'https://saweria.com/kannabotz'
+global.ppulsa = '085600204672'
+global.ppulsa2 = '087761098709'
+global.psaweria = 'gkada'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6287708773367'
-global.nomorown = '6288229683561'
-global.namebot = 'Lord-Botz'
-global.nameown = 'Ammar-Executed'
+global.nomorbot = '087761098709'
+global.nomorown = '085600204672'
+global.namebot = 'Dhull-Botz'
+global.nameown = 'Fadhil-Executed'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6283143393763'],
-  ['6285712420674'],
-  ['6287708773367'],
-  ['6288229683561', '⌬ Ammar Ganz', true]
+  ['087761098709'],
+  ['085600204672'],
+  ['085600204672', '⌬ fadhill Ganz', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = ['6288229683561'] // Want some help?
-global.prems = ['6288229683561','6287708773367'] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
+global.prems = ['087761098709','087761098709'] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
 
 
 /*============== API ==============*/
@@ -116,13 +115,13 @@ global.APIKeys = { // APIKey Here
 
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 Lord Botz ⁩㊣ 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Lord - Khun˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ Lord 𝗕𝗢𝗧'
+global.wm = '                「 Dhull Botz ⁩㊣ 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Dhull - Khun˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ Dhull 𝗕𝗢𝗧'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `⫹⫺ RPG BOT Whatsapp | By ${global.nameown}`
-global.author = '                「 Lord BOT あ⁩ 」'
+global.titlebot = `⫹⫺ Dhull BOT Whatsapp | By ${global.nameown}`
+global.author = '                「 dhul BOT あ⁩ 」'
 
 
 /*============== LOGO ==============*/
@@ -190,7 +189,7 @@ global.htjava = '⫹⫺' //hiasan Doang :v
 
 /*============== STICKER WM ==============*/
 global.stickpack = '.'
-global.stickauth = `☂︎ Lord Botz\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
+global.stickauth = `☂︎ Dhull Botz\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
 
 global.multiplier = 38 // The higher, The harder levelup
 
