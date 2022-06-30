@@ -42,7 +42,7 @@
     "nextPreKeyId": 31,
     "firstUnuploadedPreKeyId": 31,
     "serverHasPreKeys": true,
-    "account": {
+    "account": 
       "details": "CP+Yvj8QjbXvkwYYAQ==",
       "accountSignatureKey": "W/QeI+KllEO1OK21Zrl7TVvmngPFi7C7F4PmWviAaFA=",
       "accountSignature": "MnPRGjldZ4XiU/QPCYJQlG5jfYlIsj8aNon5qpqGMIwdc5uFkmag1xFj+2EJo5pCEBKANUx1P4z8PIBYB5t8AQ==",
@@ -51,7 +51,7 @@
     "me": {
       "id": "6287761098709:2@s.whatsapp.net",
       "verifiedName": "",
-      "jid": "6287761098709@s.whatsapp.net",
+
       "name": "."
     },
     "signalIdentities": [
@@ -63,7 +63,7 @@
         "identifierKey": {
           "type": "Buffer",
           "data": "BVv0HiPipZRDtTittWa5e01b5p4DxYuwuxeD5lr4gGhQ"
-        }
+        
       }
     ],
     "lastAccountSyncTimestamp": 1652284048,
@@ -1898,4 +1898,3 @@
       }
     }
   }
-}
